@@ -18,3 +18,4 @@ if (!string.IsNullOrEmpty(Environment.GetEnvironmentVariable("APPLICATIONINSIGHT
 }
 
 builder.Build().Run();
+
